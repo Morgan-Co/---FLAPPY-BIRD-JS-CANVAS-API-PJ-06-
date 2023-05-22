@@ -1,0 +1,10 @@
+canvas {
+    border: 5px dashed #d6c162;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    background-color: #333;
+}
